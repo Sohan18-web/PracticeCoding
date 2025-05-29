@@ -1,6 +1,6 @@
 package SingleThread; // Package declaration
 
-// Class name should follow naming conventions (start with uppercase letter)
+
 public class ThreadSingle {
 
     public static void main(String[] args) {
